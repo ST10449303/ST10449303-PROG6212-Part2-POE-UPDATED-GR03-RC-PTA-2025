@@ -32,11 +32,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\kayis\\OneDrive\\Desktop\\ST10449303 PROG PART2 POE 2025\\PROG6212 POE PART2 2025\\ContractMonthlyClaimSystemPart1.Core\\ContractMonthlyClaimSystemPart1.Core.csproj",
+      "projectUniqueName": "C:\\Users\\kayis\\OneDrive\\Documents\\PROG6212 POE part2 ST10449303 2025 CMCS\\ContractMonthlyClaimSystemPart1.Core\\ContractMonthlyClaimSystemPart1.Core.csproj",
       "projectName": "ContractMonthlyClaimSystemPart1.Core",
-      "projectPath": "C:\\Users\\kayis\\OneDrive\\Desktop\\ST10449303 PROG PART2 POE 2025\\PROG6212 POE PART2 2025\\ContractMonthlyClaimSystemPart1.Core\\ContractMonthlyClaimSystemPart1.Core.csproj",
+      "projectPath": "C:\\Users\\kayis\\OneDrive\\Documents\\PROG6212 POE part2 ST10449303 2025 CMCS\\ContractMonthlyClaimSystemPart1.Core\\ContractMonthlyClaimSystemPart1.Core.csproj",
       "packagesPath": "C:\\Users\\kayis\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\kayis\\OneDrive\\Desktop\\ST10449303 PROG PART2 POE 2025\\PROG6212 POE PART2 2025\\ContractMonthlyClaimSystemPart1.Core\\obj\\",
+      "outputPath": "C:\\Users\\kayis\\OneDrive\\Documents\\PROG6212 POE part2 ST10449303 2025 CMCS\\ContractMonthlyClaimSystemPart1.Core\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -58,8 +58,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\kayis\\OneDrive\\Desktop\\ST10449303 PROG PART2 POE 2025\\PROG6212 POE PART2 2025\\ContractMonthlyClaimSystemPart2.csproj": {
-              "projectPath": "C:\\Users\\kayis\\OneDrive\\Desktop\\ST10449303 PROG PART2 POE 2025\\PROG6212 POE PART2 2025\\ContractMonthlyClaimSystemPart2.csproj"
+            "C:\\Users\\kayis\\OneDrive\\Documents\\PROG6212 POE part2 ST10449303 2025 CMCS\\ContractMonthlyClaimSystemPart2.csproj": {
+              "projectPath": "C:\\Users\\kayis\\OneDrive\\Documents\\PROG6212 POE part2 ST10449303 2025 CMCS\\ContractMonthlyClaimSystemPart2.csproj"
             }
           }
         }
