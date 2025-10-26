@@ -1,0 +1,121 @@
+﻿<Window x:Class="ContractMonthlyClaimSystemPart1.CoordinatorPage"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Programme Coordinator Portal"
+        Height="650" Width="950"
+        WindowStartupLocation="CenterScreen"
+        Background="#F2F4F8"
+        ResizeMode="NoResize">
+
+    <Window.Resources>
+        <SolidColorBrush x:Key="PrimaryBrush" Color="#4F46E5"/>
+        <SolidColorBrush x:Key="AccentBrush" Color="#7B61FF"/>
+        <SolidColorBrush x:Key="DangerBrush" Color="#EF4444"/>
+        <SolidColorBrush x:Key="SuccessBrush" Color="#22C55E"/>
+        <SolidColorBrush x:Key="PanelBrush" Color="#FFFFFF"/>
+
+        <Style TargetType="Button">
+            <Setter Property="FontWeight" Value="Bold"/>
+            <Setter Property="Margin" Value="4"/>
+            <Setter Property="Cursor" Value="Hand"/>
+        </Style>
+    </Window.Resources>
+
+    <Grid Margin="20">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="Auto"/>
+        </Grid.RowDefinitions>
+
+       
+        <Border Grid.Row="0" Background="{StaticResource PrimaryBrush}" Padding="16" CornerRadius="10">
+            <TextBlock Text="Programme Coordinator — Verify Claims"
+                       FontSize="24" FontWeight="Bold" Foreground="White"/>
+        </Border>
+
+        
+        <StackPanel Grid.Row="1" Orientation="Horizontal" Margin="0,12,0,12" HorizontalAlignment="Left">
+            <TextBlock Text="Search by Lecturer or Staff #" VerticalAlignment="Center"
+                       FontWeight="SemiBold" Margin="0,0,8,0"/>
+            <TextBox x:Name="txtSearch" Width="280" Height="32" TextChanged="txtSearch_TextChanged"/>
+            <Button Content="Clear" Width="90" Height="32" Background="{StaticResource AccentBrush}"
+                    Foreground="White" Click="ClearFilter_Click" Margin="8,0,0,0"/>
+        </StackPanel>
+
+     
+        <Grid Grid.Row="2">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="2*"/>
+                <ColumnDefinition Width="3*"/>
+            </Grid.ColumnDefinitions>
+
+           
+            <Border Grid.Column="0" Background="{StaticResource PanelBrush}" Padding="10" CornerRadius="8">
+                <StackPanel>
+                    <TextBlock Text="Pending Claims" FontWeight="SemiBold" FontSize="16" Margin="0,0,0,8"/>
+                    <ScrollViewer VerticalScrollBarVisibility="Auto" Height="460">
+                        <ListBox x:Name="lstPending" SelectionChanged="lstPending_SelectionChanged">
+                            <ListBox.ItemTemplate>
+                                <DataTemplate>
+                                    <StackPanel Orientation="Horizontal" Margin="4">
+                                        <TextBlock Text="{Binding DisplayTitle}" Width="260"/>
+                                        <TextBlock Text="{Binding Status}" FontWeight="Bold" Foreground="Blue" Margin="8,0,0,0"/>
+                                    </StackPanel>
+                                </DataTemplate>
+                            </ListBox.ItemTemplate>
+                        </ListBox>
+                    </ScrollViewer>
+                </StackPanel>
+            </Border>
+
+         
+            <Border Grid.Column="1" Background="{StaticResource PanelBrush}" Padding="16" CornerRadius="8" Margin="12,0,0,0">
+                <Grid>
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="*"/>
+                        <RowDefinition Height="Auto"/>
+                    </Grid.RowDefinitions>
+
+                    <ScrollViewer Grid.Row="0" VerticalScrollBarVisibility="Auto">
+                        <StackPanel>
+                            <TextBlock Text="Claim Details" FontSize="16" FontWeight="SemiBold" Margin="0,0,0,12"/>
+                            <TextBlock x:Name="txtDetails" Text="Select a claim to view details" TextWrapping="Wrap"/>
+
+                           
+                            <TextBlock Text="Supporting Document:" FontWeight="SemiBold" Margin="0,12,0,0"/>
+                            <TextBlock x:Name="txtFileName" Foreground="Gray" Margin="0,2,0,10"/>
+
+                           
+                            <Button x:Name="btnViewDoc" Content="View Supporting Document"
+                                    Width="220" Height="36" Background="{StaticResource AccentBrush}"
+                                    Foreground="White" Margin="0,10,0,0"
+                                    Click="ViewDocument_Click" Visibility="Collapsed"/>
+                        </StackPanel>
+                    </ScrollViewer>
+
+                   
+                    <StackPanel Grid.Row="1" Orientation="Horizontal" HorizontalAlignment="Center" Margin="0,12,0,0">
+                        <Button Content="Verify" Width="140" Height="40"
+                                Background="{StaticResource SuccessBrush}" Foreground="White"
+                                Click="Verify_Click"/>
+                        <Button Content="Reject" Width="140" Height="40"
+                                Background="{StaticResource DangerBrush}" Foreground="White"
+                                Margin="12,0,0,0" Click="Reject_Click"/>
+                    </StackPanel>
+                </Grid>
+            </Border>
+        </Grid>
+
+       
+        <StackPanel Grid.Row="3" Orientation="Horizontal" HorizontalAlignment="Center" Margin="0,16,0,0">
+            <Button Content="Back" Width="140" Height="40"
+                    Background="{StaticResource PrimaryBrush}" Foreground="White"
+                    Click="Back_Click" Margin="0,0,12,0"/>
+            <Button Content="Exit" Width="140" Height="40"
+                    Background="{StaticResource DangerBrush}" Foreground="White"
+                    Click="Exit_Click"/>
+        </StackPanel>
+    </Grid>
+</Window>

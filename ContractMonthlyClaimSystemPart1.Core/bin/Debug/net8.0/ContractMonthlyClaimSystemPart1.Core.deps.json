@@ -1,0 +1,38 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "ContractMonthlyClaimSystemPart1.Core/1.0.0": {
+        "dependencies": {
+          "ContractMonthlyClaimSystemPart2": "1.0.0"
+        },
+        "runtime": {
+          "ContractMonthlyClaimSystemPart1.Core.dll": {}
+        }
+      },
+      "ContractMonthlyClaimSystemPart2/1.0.0": {
+        "runtime": {
+          "ContractMonthlyClaimSystemPart1.exe": {
+            "fileVersion": "0.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ContractMonthlyClaimSystemPart1.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ContractMonthlyClaimSystemPart2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

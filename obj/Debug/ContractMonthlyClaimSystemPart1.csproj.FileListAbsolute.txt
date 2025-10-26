@@ -1,0 +1,150 @@
+C:\Users\kayis\OneDrive\Documents\PROG6222 POE 2025\ContractMonthlyClaimSystemPart1\bin\Debug\ContractMonthlyClaimSystemPart1.exe.config
+C:\Users\kayis\OneDrive\Documents\PROG6222 POE 2025\ContractMonthlyClaimSystemPart1\bin\Debug\ContractMonthlyClaimSystemPart1.exe
+C:\Users\kayis\OneDrive\Documents\PROG6222 POE 2025\ContractMonthlyClaimSystemPart1\bin\Debug\ContractMonthlyClaimSystemPart1.pdb
+C:\Users\kayis\OneDrive\Documents\PROG6222 POE 2025\ContractMonthlyClaimSystemPart1\obj\Debug\ContractMonthlyClaimSystemPart1.csproj.AssemblyReference.cache
+C:\Users\kayis\OneDrive\Documents\PROG6222 POE 2025\ContractMonthlyClaimSystemPart1\obj\Debug\CoordinatorPage.baml
+C:\Users\kayis\OneDrive\Documents\PROG6222 POE 2025\ContractMonthlyClaimSystemPart1\obj\Debug\LecturerPage.baml
+C:\Users\kayis\OneDrive\Documents\PROG6222 POE 2025\ContractMonthlyClaimSystemPart1\obj\Debug\MainWindow.baml
+C:\Users\kayis\OneDrive\Documents\PROG6222 POE 2025\ContractMonthlyClaimSystemPart1\obj\Debug\ManagerPage.baml
+C:\Users\kayis\OneDrive\Documents\PROG6222 POE 2025\ContractMonthlyClaimSystemPart1\obj\Debug\CoordinatorPage.g.cs
+C:\Users\kayis\OneDrive\Documents\PROG6222 POE 2025\ContractMonthlyClaimSystemPart1\obj\Debug\LecturerPage.g.cs
+C:\Users\kayis\OneDrive\Documents\PROG6222 POE 2025\ContractMonthlyClaimSystemPart1\obj\Debug\MainWindow.g.cs
+C:\Users\kayis\OneDrive\Documents\PROG6222 POE 2025\ContractMonthlyClaimSystemPart1\obj\Debug\ManagerPage.g.cs
+C:\Users\kayis\OneDrive\Documents\PROG6222 POE 2025\ContractMonthlyClaimSystemPart1\obj\Debug\App.g.cs
+C:\Users\kayis\OneDrive\Documents\PROG6222 POE 2025\ContractMonthlyClaimSystemPart1\obj\Debug\ContractMonthlyClaimSystemPart1_MarkupCompile.cache
+C:\Users\kayis\OneDrive\Documents\PROG6222 POE 2025\ContractMonthlyClaimSystemPart1\obj\Debug\ContractMonthlyClaimSystemPart1.g.resources
+C:\Users\kayis\OneDrive\Documents\PROG6222 POE 2025\ContractMonthlyClaimSystemPart1\obj\Debug\ContractMonthlyClaimSystemPart1.Properties.Resources.resources
+C:\Users\kayis\OneDrive\Documents\PROG6222 POE 2025\ContractMonthlyClaimSystemPart1\obj\Debug\ContractMonthlyClaimSystemPart1.csproj.GenerateResource.cache
+C:\Users\kayis\OneDrive\Documents\PROG6222 POE 2025\ContractMonthlyClaimSystemPart1\obj\Debug\ContractMonthlyClaimSystemPart1.csproj.CoreCompileInputs.cache
+C:\Users\kayis\OneDrive\Documents\PROG6222 POE 2025\ContractMonthlyClaimSystemPart1\obj\Debug\ContractMonthlyClaimSystemPart1.exe
+C:\Users\kayis\OneDrive\Documents\PROG6222 POE 2025\ContractMonthlyClaimSystemPart1\obj\Debug\ContractMonthlyClaimSystemPart1.pdb
+C:\Users\kayis\OneDrive\Documents\PROG6222 POE 2025\ContractMonthlyClaimSystemPart1\obj\Debug\ContractMonthlyClaimSystemPart1.exe.config
+C:\Users\kayis\OneDrive\Documents\PROG6222 POE 2025\ContractMonthlyClaimSystemPart1\obj\Debug\App.baml
+C:\Users\kayis\OneDrive\Documents\PROG2B 6212 POE 2025\ContractMonthlyClaimSystemPart1\bin\Debug\ContractMonthlyClaimSystemPart1.exe.config
+C:\Users\kayis\OneDrive\Documents\PROG2B 6212 POE 2025\ContractMonthlyClaimSystemPart1\bin\Debug\ContractMonthlyClaimSystemPart1.exe
+C:\Users\kayis\OneDrive\Documents\PROG2B 6212 POE 2025\ContractMonthlyClaimSystemPart1\bin\Debug\ContractMonthlyClaimSystemPart1.pdb
+C:\Users\kayis\OneDrive\Documents\PROG2B 6212 POE 2025\ContractMonthlyClaimSystemPart1\obj\Debug\ContractMonthlyClaimSystemPart1.csproj.AssemblyReference.cache
+C:\Users\kayis\OneDrive\Documents\PROG2B 6212 POE 2025\ContractMonthlyClaimSystemPart1\obj\Debug\ContractMonthlyClaimSystemPart1.exe.config
+C:\Users\kayis\OneDrive\Documents\PROG2B 6212 POE 2025\ContractMonthlyClaimSystemPart1\obj\Debug\CoordinatorPage.baml
+C:\Users\kayis\OneDrive\Documents\PROG2B 6212 POE 2025\ContractMonthlyClaimSystemPart1\obj\Debug\LecturerPage.baml
+C:\Users\kayis\OneDrive\Documents\PROG2B 6212 POE 2025\ContractMonthlyClaimSystemPart1\obj\Debug\MainWindow.baml
+C:\Users\kayis\OneDrive\Documents\PROG2B 6212 POE 2025\ContractMonthlyClaimSystemPart1\obj\Debug\ManagerPage.baml
+C:\Users\kayis\OneDrive\Documents\PROG2B 6212 POE 2025\ContractMonthlyClaimSystemPart1\obj\Debug\CoordinatorPage.g.cs
+C:\Users\kayis\OneDrive\Documents\PROG2B 6212 POE 2025\ContractMonthlyClaimSystemPart1\obj\Debug\LecturerPage.g.cs
+C:\Users\kayis\OneDrive\Documents\PROG2B 6212 POE 2025\ContractMonthlyClaimSystemPart1\obj\Debug\MainWindow.g.cs
+C:\Users\kayis\OneDrive\Documents\PROG2B 6212 POE 2025\ContractMonthlyClaimSystemPart1\obj\Debug\ManagerPage.g.cs
+C:\Users\kayis\OneDrive\Documents\PROG2B 6212 POE 2025\ContractMonthlyClaimSystemPart1\obj\Debug\App.g.cs
+C:\Users\kayis\OneDrive\Documents\PROG2B 6212 POE 2025\ContractMonthlyClaimSystemPart1\obj\Debug\ContractMonthlyClaimSystemPart1_MarkupCompile.cache
+C:\Users\kayis\OneDrive\Documents\PROG2B 6212 POE 2025\ContractMonthlyClaimSystemPart1\obj\Debug\ContractMonthlyClaimSystemPart1.g.resources
+C:\Users\kayis\OneDrive\Documents\PROG2B 6212 POE 2025\ContractMonthlyClaimSystemPart1\obj\Debug\ContractMonthlyClaimSystemPart1.Properties.Resources.resources
+C:\Users\kayis\OneDrive\Documents\PROG2B 6212 POE 2025\ContractMonthlyClaimSystemPart1\obj\Debug\ContractMonthlyClaimSystemPart1.csproj.GenerateResource.cache
+C:\Users\kayis\OneDrive\Documents\PROG2B 6212 POE 2025\ContractMonthlyClaimSystemPart1\obj\Debug\ContractMonthlyClaimSystemPart1.csproj.CoreCompileInputs.cache
+C:\Users\kayis\OneDrive\Documents\PROG2B 6212 POE 2025\ContractMonthlyClaimSystemPart1\obj\Debug\ContractMonthlyClaimSystemPart1.exe
+C:\Users\kayis\OneDrive\Documents\PROG2B 6212 POE 2025\ContractMonthlyClaimSystemPart1\obj\Debug\ContractMonthlyClaimSystemPart1.pdb
+C:\Users\kayis\OneDrive\Documents\PROG2B 6212 POE 2025\ContractMonthlyClaimSystemPart1\obj\Debug\App.baml
+C:\Users\kayis\OneDrive\Documents\PROG2B 6212 POE 2025\ContractMonthlyClaimSystemPart1\obj\Debug\Login.baml
+C:\Users\kayis\OneDrive\Documents\PROG2B 6212 POE 2025\ContractMonthlyClaimSystemPart1\obj\Debug\Login.g.cs
+C:\Users\RC_Student_Lab\Documents\PROG2B 6212 POE 2025\ContractMonthlyClaimSystemPart1\bin\Debug\ContractMonthlyClaimSystemPart1.exe.config
+C:\Users\RC_Student_Lab\Documents\PROG2B 6212 POE 2025\ContractMonthlyClaimSystemPart1\bin\Debug\ContractMonthlyClaimSystemPart1.exe
+C:\Users\RC_Student_Lab\Documents\PROG2B 6212 POE 2025\ContractMonthlyClaimSystemPart1\bin\Debug\ContractMonthlyClaimSystemPart1.pdb
+C:\Users\RC_Student_Lab\Documents\PROG2B 6212 POE 2025\ContractMonthlyClaimSystemPart1\obj\Debug\ContractMonthlyClaimSystemPart1.csproj.AssemblyReference.cache
+C:\Users\RC_Student_Lab\Documents\PROG2B 6212 POE 2025\ContractMonthlyClaimSystemPart1\obj\Debug\ContractMonthlyClaimSystemPart1.exe.config
+C:\Users\RC_Student_Lab\Documents\PROG2B 6212 POE 2025\ContractMonthlyClaimSystemPart1\obj\Debug\CoordinatorPage.baml
+C:\Users\RC_Student_Lab\Documents\PROG2B 6212 POE 2025\ContractMonthlyClaimSystemPart1\obj\Debug\LecturerPage.baml
+C:\Users\RC_Student_Lab\Documents\PROG2B 6212 POE 2025\ContractMonthlyClaimSystemPart1\obj\Debug\Login.baml
+C:\Users\RC_Student_Lab\Documents\PROG2B 6212 POE 2025\ContractMonthlyClaimSystemPart1\obj\Debug\MainWindow.baml
+C:\Users\RC_Student_Lab\Documents\PROG2B 6212 POE 2025\ContractMonthlyClaimSystemPart1\obj\Debug\ManagerPage.baml
+C:\Users\RC_Student_Lab\Documents\PROG2B 6212 POE 2025\ContractMonthlyClaimSystemPart1\obj\Debug\App.baml
+C:\Users\RC_Student_Lab\Documents\PROG2B 6212 POE 2025\ContractMonthlyClaimSystemPart1\obj\Debug\CoordinatorPage.g.cs
+C:\Users\RC_Student_Lab\Documents\PROG2B 6212 POE 2025\ContractMonthlyClaimSystemPart1\obj\Debug\LecturerPage.g.cs
+C:\Users\RC_Student_Lab\Documents\PROG2B 6212 POE 2025\ContractMonthlyClaimSystemPart1\obj\Debug\Login.g.cs
+C:\Users\RC_Student_Lab\Documents\PROG2B 6212 POE 2025\ContractMonthlyClaimSystemPart1\obj\Debug\MainWindow.g.cs
+C:\Users\RC_Student_Lab\Documents\PROG2B 6212 POE 2025\ContractMonthlyClaimSystemPart1\obj\Debug\ManagerPage.g.cs
+C:\Users\RC_Student_Lab\Documents\PROG2B 6212 POE 2025\ContractMonthlyClaimSystemPart1\obj\Debug\App.g.cs
+C:\Users\RC_Student_Lab\Documents\PROG2B 6212 POE 2025\ContractMonthlyClaimSystemPart1\obj\Debug\ContractMonthlyClaimSystemPart1_MarkupCompile.cache
+C:\Users\RC_Student_Lab\Documents\PROG2B 6212 POE 2025\ContractMonthlyClaimSystemPart1\obj\Debug\ContractMonthlyClaimSystemPart1.g.resources
+C:\Users\RC_Student_Lab\Documents\PROG2B 6212 POE 2025\ContractMonthlyClaimSystemPart1\obj\Debug\ContractMonthlyClaimSystemPart1.Properties.Resources.resources
+C:\Users\RC_Student_Lab\Documents\PROG2B 6212 POE 2025\ContractMonthlyClaimSystemPart1\obj\Debug\ContractMonthlyClaimSystemPart1.csproj.GenerateResource.cache
+C:\Users\RC_Student_Lab\Documents\PROG2B 6212 POE 2025\ContractMonthlyClaimSystemPart1\obj\Debug\ContractMonthlyClaimSystemPart1.csproj.CoreCompileInputs.cache
+C:\Users\RC_Student_Lab\Documents\PROG2B 6212 POE 2025\ContractMonthlyClaimSystemPart1\obj\Debug\ContractMonthlyClaimSystemPart1.exe
+C:\Users\RC_Student_Lab\Documents\PROG2B 6212 POE 2025\ContractMonthlyClaimSystemPart1\obj\Debug\ContractMonthlyClaimSystemPart1.pdb
+C:\Users\RC_Student_Lab\Documents\PROG6212 POE PART1 2025\bin\Debug\ContractMonthlyClaimSystemPart1.exe.config
+C:\Users\RC_Student_Lab\Documents\PROG6212 POE PART1 2025\bin\Debug\ContractMonthlyClaimSystemPart1.exe
+C:\Users\RC_Student_Lab\Documents\PROG6212 POE PART1 2025\bin\Debug\ContractMonthlyClaimSystemPart1.pdb
+C:\Users\RC_Student_Lab\Documents\PROG6212 POE PART1 2025\obj\Debug\ContractMonthlyClaimSystemPart1.csproj.AssemblyReference.cache
+C:\Users\RC_Student_Lab\Documents\PROG6212 POE PART1 2025\obj\Debug\ContractMonthlyClaimSystemPart1.exe.config
+C:\Users\RC_Student_Lab\Documents\PROG6212 POE PART1 2025\obj\Debug\CoordinatorPage.baml
+C:\Users\RC_Student_Lab\Documents\PROG6212 POE PART1 2025\obj\Debug\LecturerPage.baml
+C:\Users\RC_Student_Lab\Documents\PROG6212 POE PART1 2025\obj\Debug\Login.baml
+C:\Users\RC_Student_Lab\Documents\PROG6212 POE PART1 2025\obj\Debug\MainWindow.baml
+C:\Users\RC_Student_Lab\Documents\PROG6212 POE PART1 2025\obj\Debug\ManagerPage.baml
+C:\Users\RC_Student_Lab\Documents\PROG6212 POE PART1 2025\obj\Debug\App.baml
+C:\Users\RC_Student_Lab\Documents\PROG6212 POE PART1 2025\obj\Debug\CoordinatorPage.g.cs
+C:\Users\RC_Student_Lab\Documents\PROG6212 POE PART1 2025\obj\Debug\LecturerPage.g.cs
+C:\Users\RC_Student_Lab\Documents\PROG6212 POE PART1 2025\obj\Debug\Login.g.cs
+C:\Users\RC_Student_Lab\Documents\PROG6212 POE PART1 2025\obj\Debug\MainWindow.g.cs
+C:\Users\RC_Student_Lab\Documents\PROG6212 POE PART1 2025\obj\Debug\ManagerPage.g.cs
+C:\Users\RC_Student_Lab\Documents\PROG6212 POE PART1 2025\obj\Debug\App.g.cs
+C:\Users\RC_Student_Lab\Documents\PROG6212 POE PART1 2025\obj\Debug\ContractMonthlyClaimSystemPart1_MarkupCompile.cache
+C:\Users\RC_Student_Lab\Documents\PROG6212 POE PART1 2025\obj\Debug\ContractMonthlyClaimSystemPart1.g.resources
+C:\Users\RC_Student_Lab\Documents\PROG6212 POE PART1 2025\obj\Debug\ContractMonthlyClaimSystemPart1.Properties.Resources.resources
+C:\Users\RC_Student_Lab\Documents\PROG6212 POE PART1 2025\obj\Debug\ContractMonthlyClaimSystemPart1.csproj.GenerateResource.cache
+C:\Users\RC_Student_Lab\Documents\PROG6212 POE PART1 2025\obj\Debug\ContractMonthlyClaimSystemPart1.csproj.CoreCompileInputs.cache
+C:\Users\RC_Student_Lab\Documents\PROG6212 POE PART1 2025\obj\Debug\ContractMonthlyClaimSystemPart1.exe
+C:\Users\RC_Student_Lab\Documents\PROG6212 POE PART1 2025\obj\Debug\ContractMonthlyClaimSystemPart1.pdb
+C:\Users\RC_Student_Lab\Desktop\ST10449303 PROG6212 POE PART1 2025 THABELO MAHADA\PROG6212 POE PART1 2025\bin\Debug\ContractMonthlyClaimSystemPart1.exe.config
+C:\Users\RC_Student_Lab\Desktop\ST10449303 PROG6212 POE PART1 2025 THABELO MAHADA\PROG6212 POE PART1 2025\bin\Debug\ContractMonthlyClaimSystemPart1.exe
+C:\Users\RC_Student_Lab\Desktop\ST10449303 PROG6212 POE PART1 2025 THABELO MAHADA\PROG6212 POE PART1 2025\bin\Debug\ContractMonthlyClaimSystemPart1.pdb
+C:\Users\RC_Student_Lab\Desktop\ST10449303 PROG6212 POE PART1 2025 THABELO MAHADA\PROG6212 POE PART1 2025\bin\Debug\NuGet.Frameworks.dll
+C:\Users\RC_Student_Lab\Desktop\ST10449303 PROG6212 POE PART1 2025 THABELO MAHADA\PROG6212 POE PART1 2025\bin\Debug\NuGet.Frameworks.xml
+C:\Users\RC_Student_Lab\Desktop\ST10449303 PROG6212 POE PART1 2025 THABELO MAHADA\PROG6212 POE PART1 2025\obj\Debug\ContractMonthlyClaimSystemPart1.csproj.AssemblyReference.cache
+C:\Users\RC_Student_Lab\Desktop\ST10449303 PROG6212 POE PART1 2025 THABELO MAHADA\PROG6212 POE PART1 2025\obj\Debug\ContractMonthlyClaimSystemPart1.exe.config
+C:\Users\RC_Student_Lab\Desktop\ST10449303 PROG6212 POE PART1 2025 THABELO MAHADA\PROG6212 POE PART1 2025\obj\Debug\CoordinatorPage.baml
+C:\Users\RC_Student_Lab\Desktop\ST10449303 PROG6212 POE PART1 2025 THABELO MAHADA\PROG6212 POE PART1 2025\obj\Debug\LecturerPage.baml
+C:\Users\RC_Student_Lab\Desktop\ST10449303 PROG6212 POE PART1 2025 THABELO MAHADA\PROG6212 POE PART1 2025\obj\Debug\Login.baml
+C:\Users\RC_Student_Lab\Desktop\ST10449303 PROG6212 POE PART1 2025 THABELO MAHADA\PROG6212 POE PART1 2025\obj\Debug\MainWindow.baml
+C:\Users\RC_Student_Lab\Desktop\ST10449303 PROG6212 POE PART1 2025 THABELO MAHADA\PROG6212 POE PART1 2025\obj\Debug\ManagerPage.baml
+C:\Users\RC_Student_Lab\Desktop\ST10449303 PROG6212 POE PART1 2025 THABELO MAHADA\PROG6212 POE PART1 2025\obj\Debug\App.baml
+C:\Users\RC_Student_Lab\Desktop\ST10449303 PROG6212 POE PART1 2025 THABELO MAHADA\PROG6212 POE PART1 2025\obj\Debug\CoordinatorPage.g.cs
+C:\Users\RC_Student_Lab\Desktop\ST10449303 PROG6212 POE PART1 2025 THABELO MAHADA\PROG6212 POE PART1 2025\obj\Debug\LecturerPage.g.cs
+C:\Users\RC_Student_Lab\Desktop\ST10449303 PROG6212 POE PART1 2025 THABELO MAHADA\PROG6212 POE PART1 2025\obj\Debug\Login.g.cs
+C:\Users\RC_Student_Lab\Desktop\ST10449303 PROG6212 POE PART1 2025 THABELO MAHADA\PROG6212 POE PART1 2025\obj\Debug\MainWindow.g.cs
+C:\Users\RC_Student_Lab\Desktop\ST10449303 PROG6212 POE PART1 2025 THABELO MAHADA\PROG6212 POE PART1 2025\obj\Debug\ManagerPage.g.cs
+C:\Users\RC_Student_Lab\Desktop\ST10449303 PROG6212 POE PART1 2025 THABELO MAHADA\PROG6212 POE PART1 2025\obj\Debug\App.g.cs
+C:\Users\RC_Student_Lab\Desktop\ST10449303 PROG6212 POE PART1 2025 THABELO MAHADA\PROG6212 POE PART1 2025\obj\Debug\ContractMonthlyClaimSystemPart1_MarkupCompile.cache
+C:\Users\RC_Student_Lab\Desktop\ST10449303 PROG6212 POE PART1 2025 THABELO MAHADA\PROG6212 POE PART1 2025\obj\Debug\ContractMonthlyClaimSystemPart1.g.resources
+C:\Users\RC_Student_Lab\Desktop\ST10449303 PROG6212 POE PART1 2025 THABELO MAHADA\PROG6212 POE PART1 2025\obj\Debug\ContractMonthlyClaimSystemPart1.Properties.Resources.resources
+C:\Users\RC_Student_Lab\Desktop\ST10449303 PROG6212 POE PART1 2025 THABELO MAHADA\PROG6212 POE PART1 2025\obj\Debug\ContractMonthlyClaimSystemPart1.csproj.GenerateResource.cache
+C:\Users\RC_Student_Lab\Desktop\ST10449303 PROG6212 POE PART1 2025 THABELO MAHADA\PROG6212 POE PART1 2025\obj\Debug\ContractMonthlyClaimSystemPart1.csproj.CoreCompileInputs.cache
+C:\Users\RC_Student_Lab\Desktop\ST10449303 PROG6212 POE PART1 2025 THABELO MAHADA\PROG6212 POE PART1 2025\obj\Debug\Contract.61C7FAB0.Up2Date
+C:\Users\RC_Student_Lab\Desktop\ST10449303 PROG6212 POE PART1 2025 THABELO MAHADA\PROG6212 POE PART1 2025\obj\Debug\ContractMonthlyClaimSystemPart1.exe
+C:\Users\RC_Student_Lab\Desktop\ST10449303 PROG6212 POE PART1 2025 THABELO MAHADA\PROG6212 POE PART1 2025\obj\Debug\ContractMonthlyClaimSystemPart1.pdb
+C:\Users\kayis\OneDrive\Desktop\ST10449303 PROG PART1 POE 2025\PROG6212 POE PART1 2025\bin\Debug\ContractMonthlyClaimSystemPart1.exe.config
+C:\Users\kayis\OneDrive\Desktop\ST10449303 PROG PART1 POE 2025\PROG6212 POE PART1 2025\bin\Debug\ContractMonthlyClaimSystemPart1.exe
+C:\Users\kayis\OneDrive\Desktop\ST10449303 PROG PART1 POE 2025\PROG6212 POE PART1 2025\bin\Debug\ContractMonthlyClaimSystemPart1.pdb
+C:\Users\kayis\OneDrive\Desktop\ST10449303 PROG PART1 POE 2025\PROG6212 POE PART1 2025\bin\Debug\NuGet.Frameworks.dll
+C:\Users\kayis\OneDrive\Desktop\ST10449303 PROG PART1 POE 2025\PROG6212 POE PART1 2025\bin\Debug\NuGet.Frameworks.xml
+C:\Users\kayis\OneDrive\Desktop\ST10449303 PROG PART1 POE 2025\PROG6212 POE PART1 2025\obj\Debug\ContractMonthlyClaimSystemPart1.csproj.AssemblyReference.cache
+C:\Users\kayis\OneDrive\Desktop\ST10449303 PROG PART1 POE 2025\PROG6212 POE PART1 2025\obj\Debug\ContractMonthlyClaimSystemPart1.exe.config
+C:\Users\kayis\OneDrive\Desktop\ST10449303 PROG PART1 POE 2025\PROG6212 POE PART1 2025\obj\Debug\CoordinatorPage.baml
+C:\Users\kayis\OneDrive\Desktop\ST10449303 PROG PART1 POE 2025\PROG6212 POE PART1 2025\obj\Debug\LecturerPage.baml
+C:\Users\kayis\OneDrive\Desktop\ST10449303 PROG PART1 POE 2025\PROG6212 POE PART1 2025\obj\Debug\Login.baml
+C:\Users\kayis\OneDrive\Desktop\ST10449303 PROG PART1 POE 2025\PROG6212 POE PART1 2025\obj\Debug\MainWindow.baml
+C:\Users\kayis\OneDrive\Desktop\ST10449303 PROG PART1 POE 2025\PROG6212 POE PART1 2025\obj\Debug\ManagerPage.baml
+C:\Users\kayis\OneDrive\Desktop\ST10449303 PROG PART1 POE 2025\PROG6212 POE PART1 2025\obj\Debug\App.baml
+C:\Users\kayis\OneDrive\Desktop\ST10449303 PROG PART1 POE 2025\PROG6212 POE PART1 2025\obj\Debug\CoordinatorPage.g.cs
+C:\Users\kayis\OneDrive\Desktop\ST10449303 PROG PART1 POE 2025\PROG6212 POE PART1 2025\obj\Debug\LecturerPage.g.cs
+C:\Users\kayis\OneDrive\Desktop\ST10449303 PROG PART1 POE 2025\PROG6212 POE PART1 2025\obj\Debug\Login.g.cs
+C:\Users\kayis\OneDrive\Desktop\ST10449303 PROG PART1 POE 2025\PROG6212 POE PART1 2025\obj\Debug\MainWindow.g.cs
+C:\Users\kayis\OneDrive\Desktop\ST10449303 PROG PART1 POE 2025\PROG6212 POE PART1 2025\obj\Debug\ManagerPage.g.cs
+C:\Users\kayis\OneDrive\Desktop\ST10449303 PROG PART1 POE 2025\PROG6212 POE PART1 2025\obj\Debug\App.g.cs
+C:\Users\kayis\OneDrive\Desktop\ST10449303 PROG PART1 POE 2025\PROG6212 POE PART1 2025\obj\Debug\ContractMonthlyClaimSystemPart1_MarkupCompile.cache
+C:\Users\kayis\OneDrive\Desktop\ST10449303 PROG PART1 POE 2025\PROG6212 POE PART1 2025\obj\Debug\ContractMonthlyClaimSystemPart1.g.resources
+C:\Users\kayis\OneDrive\Desktop\ST10449303 PROG PART1 POE 2025\PROG6212 POE PART1 2025\obj\Debug\ContractMonthlyClaimSystemPart1.Properties.Resources.resources
+C:\Users\kayis\OneDrive\Desktop\ST10449303 PROG PART1 POE 2025\PROG6212 POE PART1 2025\obj\Debug\ContractMonthlyClaimSystemPart1.csproj.GenerateResource.cache
+C:\Users\kayis\OneDrive\Desktop\ST10449303 PROG PART1 POE 2025\PROG6212 POE PART1 2025\obj\Debug\ContractMonthlyClaimSystemPart1.csproj.CoreCompileInputs.cache
+C:\Users\kayis\OneDrive\Desktop\ST10449303 PROG PART1 POE 2025\PROG6212 POE PART1 2025\obj\Debug\Contract.61C7FAB0.Up2Date
+C:\Users\kayis\OneDrive\Desktop\ST10449303 PROG PART1 POE 2025\PROG6212 POE PART1 2025\obj\Debug\ContractMonthlyClaimSystemPart1.exe
+C:\Users\kayis\OneDrive\Desktop\ST10449303 PROG PART1 POE 2025\PROG6212 POE PART1 2025\obj\Debug\ContractMonthlyClaimSystemPart1.pdb
+C:\Users\kayis\OneDrive\Desktop\ST10449303 PROG PART1 POE 2025\PROG6212 POE PART1 2025\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\kayis\OneDrive\Desktop\ST10449303 PROG PART1 POE 2025\PROG6212 POE PART1 2025\obj\Debug\ContractMonthlyClaimSystemPart1_MarkupCompile.lref

@@ -1,0 +1,17 @@
+C:\Users\kayis\OneDrive\Desktop\ST10449303 PROG PART2 POE 2025\PROG6212 POE PART2 2025\ContractMonthlyClaimSystemPart1.Core\obj\Debug\net8.0\ContractMonthlyClaimSystemPart1.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kayis\OneDrive\Desktop\ST10449303 PROG PART2 POE 2025\PROG6212 POE PART2 2025\ContractMonthlyClaimSystemPart1.Core\obj\Debug\net8.0\ContractMonthlyClaimSystemPart1.Core.AssemblyInfoInputs.cache
+C:\Users\kayis\OneDrive\Desktop\ST10449303 PROG PART2 POE 2025\PROG6212 POE PART2 2025\ContractMonthlyClaimSystemPart1.Core\obj\Debug\net8.0\ContractMonthlyClaimSystemPart1.Core.AssemblyInfo.cs
+C:\Users\kayis\OneDrive\Desktop\ST10449303 PROG PART2 POE 2025\PROG6212 POE PART2 2025\ContractMonthlyClaimSystemPart1.Core\obj\Debug\net8.0\ContractMonthlyClaimSystemPart1.Core.csproj.CoreCompileInputs.cache
+C:\Users\kayis\OneDrive\Desktop\ST10449303 PROG PART2 POE 2025\PROG6212 POE PART2 2025\ContractMonthlyClaimSystemPart1.Core\obj\Debug\net8.0\ContractMonthlyClaimSystemPart1.Core.sourcelink.json
+C:\Users\kayis\OneDrive\Desktop\ST10449303 PROG PART2 POE 2025\PROG6212 POE PART2 2025\ContractMonthlyClaimSystemPart1.Core\bin\Debug\net8.0\ContractMonthlyClaimSystemPart1.Core.deps.json
+C:\Users\kayis\OneDrive\Desktop\ST10449303 PROG PART2 POE 2025\PROG6212 POE PART2 2025\ContractMonthlyClaimSystemPart1.Core\bin\Debug\net8.0\ContractMonthlyClaimSystemPart1.Core.dll
+C:\Users\kayis\OneDrive\Desktop\ST10449303 PROG PART2 POE 2025\PROG6212 POE PART2 2025\ContractMonthlyClaimSystemPart1.Core\bin\Debug\net8.0\ContractMonthlyClaimSystemPart1.Core.pdb
+C:\Users\kayis\OneDrive\Desktop\ST10449303 PROG PART2 POE 2025\PROG6212 POE PART2 2025\ContractMonthlyClaimSystemPart1.Core\bin\Debug\net8.0\ContractMonthlyClaimSystemPart1.exe
+C:\Users\kayis\OneDrive\Desktop\ST10449303 PROG PART2 POE 2025\PROG6212 POE PART2 2025\ContractMonthlyClaimSystemPart1.Core\bin\Debug\net8.0\ContractMonthlyClaimSystemPart1.pdb
+C:\Users\kayis\OneDrive\Desktop\ST10449303 PROG PART2 POE 2025\PROG6212 POE PART2 2025\ContractMonthlyClaimSystemPart1.Core\bin\Debug\net8.0\ContractMonthlyClaimSystemPart1.exe.config
+C:\Users\kayis\OneDrive\Desktop\ST10449303 PROG PART2 POE 2025\PROG6212 POE PART2 2025\ContractMonthlyClaimSystemPart1.Core\obj\Debug\net8.0\ContractMonthlyClaimSystemPart1.Core.csproj.AssemblyReference.cache
+C:\Users\kayis\OneDrive\Desktop\ST10449303 PROG PART2 POE 2025\PROG6212 POE PART2 2025\ContractMonthlyClaimSystemPart1.Core\obj\Debug\net8.0\Contract.36722367.Up2Date
+C:\Users\kayis\OneDrive\Desktop\ST10449303 PROG PART2 POE 2025\PROG6212 POE PART2 2025\ContractMonthlyClaimSystemPart1.Core\obj\Debug\net8.0\ContractMonthlyClaimSystemPart1.Core.dll
+C:\Users\kayis\OneDrive\Desktop\ST10449303 PROG PART2 POE 2025\PROG6212 POE PART2 2025\ContractMonthlyClaimSystemPart1.Core\obj\Debug\net8.0\refint\ContractMonthlyClaimSystemPart1.Core.dll
+C:\Users\kayis\OneDrive\Desktop\ST10449303 PROG PART2 POE 2025\PROG6212 POE PART2 2025\ContractMonthlyClaimSystemPart1.Core\obj\Debug\net8.0\ContractMonthlyClaimSystemPart1.Core.pdb
+C:\Users\kayis\OneDrive\Desktop\ST10449303 PROG PART2 POE 2025\PROG6212 POE PART2 2025\ContractMonthlyClaimSystemPart1.Core\obj\Debug\net8.0\ref\ContractMonthlyClaimSystemPart1.Core.dll

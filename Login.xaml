@@ -1,0 +1,73 @@
+﻿<Window x:Class="ContractMonthlyClaimSystemPart1.LoginWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Login"
+        Height="460"
+        Width="420"
+        ResizeMode="NoResize"
+        WindowStartupLocation="CenterScreen"
+        Background="#f4f6f9">
+
+    <Grid>
+        
+        <Border CornerRadius="12" Background="White" Padding="20" Width="360" Height="420"
+                VerticalAlignment="Center" HorizontalAlignment="Center"
+                BorderBrush="#ddd" BorderThickness="1">
+            <StackPanel VerticalAlignment="Stretch">
+
+               
+                <TextBlock Text="Staff Login"
+                           FontSize="24" FontWeight="Bold" Foreground="#1D4ED8"
+                           HorizontalAlignment="Center" Margin="0,0,0,10"/>
+                <TextBlock Text="Sign in to access your account"
+                           FontSize="13" Foreground="Gray"
+                           HorizontalAlignment="Center" Margin="0,0,0,20"/>
+
+              
+                <StackPanel Margin="0,5,0,0">
+                    <TextBlock Text="Login As" FontWeight="SemiBold" Foreground="#555"/>
+                    <ComboBox x:Name="cmbRole" Height="35" Margin="0,5,0,0" 
+                              Background="#f0f2f5" BorderBrush="#ccc">
+                        <ComboBoxItem Content="Lecturer"/>
+                        <ComboBoxItem Content="Coordinator"/>
+                        <ComboBoxItem Content="Manager"/>
+                    </ComboBox>
+                </StackPanel>
+
+              
+                <StackPanel Margin="0,15,0,0">
+                    <TextBlock Text="Email" FontWeight="SemiBold" Foreground="#555"/>
+                    <TextBox x:Name="txtEmail" Height="35" Margin="0,5,0,0" Padding="8"
+                             Background="#f0f2f5" BorderBrush="#ccc"/>
+                </StackPanel>
+
+              
+                <StackPanel Margin="0,15,0,0">
+                    <TextBlock Text="Password" FontWeight="SemiBold" Foreground="#555"/>
+                    <PasswordBox x:Name="txtPassword" Height="35" Margin="0,5,0,0" Padding="8"
+                                 Background="#f0f2f5" BorderBrush="#ccc"/>
+                </StackPanel>
+
+                
+                <Button Content="Sign In" Height="40" Margin="0,20,0,0"
+                        Background="#2196F3" Foreground="White" FontWeight="Bold"
+                        Click="Enter_Click" Cursor="Hand"/>
+
+               
+                <TextBlock HorizontalAlignment="Center" Margin="0,10,0,0" FontSize="12">
+                    <Run Text="Don't have an account? " Foreground="Gray"/>
+                    <Hyperlink Click="SignUp_Click" Foreground="#2563EB" FontWeight="Bold">
+                        Sign up
+                    </Hyperlink>
+                </TextBlock>
+
+               
+                <Button Content="Exit" Width="100" Height="36" Margin="20,20,0,0"
+                        HorizontalAlignment="Center"
+                        Background="#e74c3c" Foreground="White" FontWeight="Bold"
+                        Click="Exit_Click" Cursor="Hand"/>
+
+            </StackPanel>
+        </Border>
+    </Grid>
+</Window>
